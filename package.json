@@ -1,0 +1,35 @@
+{
+  "devDependencies": {
+    "@babel/preset-react": "^7.12.10",
+    "@symfony/stimulus-bridge": "^1.1.0",
+    "@symfony/webpack-encore": "^0.33.0",
+    "axios": "^0.21.1",
+    "babel-cli": "^6.26.0",
+    "babel-preset-react": "^6.24.1",
+    "history": "^4.10.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-calendar": "^3.3.0",
+    "react-daypicker": "^3.0.10",
+    "react-dom": "^17.0.1",
+    "react-nice-dates": "^3.0.7"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "@babel/plugin-transform-runtime": "^7.12.10",
+    "@babel/polyfill": "^7.4.4",
+    "connected-react-router": "^6.8.0",
+    "core-js": "^3.8.2",
+    "date-fns": "^2.16.1",
+    "react-bootstrap": "^1.4.0",
+    "react-redux": "^7.2.2",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "^4.0.1",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "stimulus": "^2.0.0",
+    "webpack-notifier": "^1.12.0"
+  }
+}
